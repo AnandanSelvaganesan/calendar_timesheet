@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "expAmount": "290.00",
+      "curCode": "INR",
+      "expNo": "EXPNO1704000183",
+      "srNo": "41221"
+    },
+    {
+      "expAmount": "145.00",
+      "curCode": "INR",
+      "expNo": "EXPNO1704000184",
+      "srNo": "41780"
+    },
+    {
+      "expAmount": "580.00",
+      "curCode": "INR",
+      "expNo": "EXPNO1704000185",
+      "srNo": "41889"
+    },
+    {
+      "expAmount": "5200.00",
+      "curCode": "INR",
+      "expNo": "EXPNO1704000186",
+      "srNo": "41719"
+    },
+    {
+      "expAmount": "290.00",
+      "curCode": "INR",
+      "expNo": "EXPNO1704000187",
+      "srNo": "42244"
+    },
+    {
+      "expAmount": "145.00",
+      "curCode": "INR",
+      "expNo": "EXPNO1704000188",
+      "srNo": "42297"
+    },
+    {
+      "expAmount": "435.00",
+      "curCode": "INR",
+      "expNo": "EXPNO1704000189",
+      "srNo": "42435"
+    },
+    {
+      "expAmount": "145.00",
+      "curCode": "INR",
+      "expNo": "EXPNO1704000190",
+      "srNo": "42675"
+    },
+    {
+      "expAmount": "290.00",
+      "curCode": "INR",
+      "expNo": "EXPNO1704000191",
+      "srNo": "42799"
+    },
+    {
+      "expAmount": "145.00",
+      "curCode": "INR",
+      "expNo": "EXPNO1704000192",
+      "srNo": "43280"
+    },
+    {
+      "expAmount": "145.00",
+      "curCode": "INR",
+      "expNo": "EXPNO1704000193",
+      "srNo": "43282"
+    },
+    {
+      "expAmount": "145.00",
+      "curCode": "INR",
+      "expNo": "EXPNO1704000194",
+      "srNo": "43425"
+    }
+  ]
+}

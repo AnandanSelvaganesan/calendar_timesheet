@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Working Day"
+    },
+    {
+      "id": "2",
+      "name": "Holiday"
+    },
+    {
+      "id": "3",
+      "name": "Weekly off"
+    },
+    {
+      "id": "4",
+      "name": "Leave"
+    },
+    {
+      "id": "5",
+      "name": "Abortive Visit"
+    },
+    {
+      "id": "6",
+      "name": "Training"
+    },
+    {
+      "id": "7",
+      "name": "No work"
+    },
+    {
+      "id": "8",
+      "name": "Travel"
+    },
+    {
+      "id": "9",
+      "name": "Coordination"
+    },
+    {
+      "id": "10",
+      "name": "Business Development"
+    },
+    {
+      "id": "11",
+      "name": "Customer Visit"
+    },
+    {
+      "id": "12",
+      "name": "CB Accreditation"
+    },
+    {
+      "id": "13",
+      "name": "IB Accreditation"
+    },
+    {
+      "id": "14",
+      "name": "General Administration"
+    },
+    {
+      "id": "15",
+      "name": "TBEM"
+    },
+    {
+      "id": "16",
+      "name": "EHS"
+    },
+    {
+      "id": "17",
+      "name": "TPL-TWI Training"
+    },
+    {
+      "id": "18",
+      "name": "Interview"
+    },
+    {
+      "id": "19",
+      "name": "Working on weekly off/Holiday"
+    }
+  ]
+}

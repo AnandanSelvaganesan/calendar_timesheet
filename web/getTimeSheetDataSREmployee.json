@@ -1,0 +1,283 @@
+{
+  "defaulter_count": 0,
+  "data": [
+    {
+      "value": [
+        {
+          "data": [
+            {
+              "totalHrs": "05:30",
+              "name": "No SR",
+              "type": "SR",
+              "daysnHrs": {
+                "2": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "3": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "4": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "5": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "6": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "7": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "8": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "9": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "10": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "11": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "12": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "13": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "16": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "19": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "25": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "26": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                }
+              }
+            },
+            {
+              "totalHrs": "05:30",
+              "name": "Travel Time",
+              "type": "TT",
+              "daysnHrs": {
+                "2": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "3": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "4": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "5": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "6": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "7": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "8": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "9": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "10": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "11": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "12": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "13": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "16": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "19": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "25": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                },
+                "26": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "1.00",
+                  "effort_type": "Working Day"
+                }
+              }
+            }
+          ],
+          "month": 2,
+          "month_name": "February",
+          "year": "2017"
+        },
+        {
+          "data": [
+            {
+              "totalHrs": "05:30",
+              "name": "No SR",
+              "type": "SR",
+              "daysnHrs": {
+                "1": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "2.00",
+                  "effort_type": "Working Day"
+                },
+                "5": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "2.00",
+                  "effort_type": "Working Day"
+                },
+                "12": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "2.00",
+                  "effort_type": "Working Day"
+                },
+                "19": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "2.00",
+                  "effort_type": "Working Day"
+                }
+              }
+            },
+            {
+              "totalHrs": "05:30",
+              "name": "Travel Time",
+              "type": "TT",
+              "daysnHrs": {
+                "1": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "2.00",
+                  "effort_type": "Working Day"
+                },
+                "5": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "2.00",
+                  "effort_type": "Working Day"
+                },
+                "12": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "2.00",
+                  "effort_type": "Working Day"
+                },
+                "19": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "2.00",
+                  "effort_type": "Working Day"
+                }
+              }
+            }
+          ],
+          "month": 3,
+          "month_name": "March",
+          "year": "2017"
+        },
+        {
+          "data": [
+            {
+              "totalHrs": "15:30",
+              "name": "No SR",
+              "type": "SR",
+              "daysnHrs": {
+                "1": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "10:00",
+                  "effort_type": "Working Day"
+                }
+              }
+            },
+            {
+              "totalHrs": "15:30",
+              "name": "Travel Time",
+              "type": "TT",
+              "daysnHrs": {
+                "1": {
+                  "effort_code": "normal-Working-day",
+                  "effort": "10:00",
+                  "effort_type": "Working Day"
+                }
+              }
+            }
+          ],
+          "month": 4,
+          "month_name": "April",
+          "year": "2017"
+        }
+      ],
+      "key": "2017"
+    }
+  ]
+}
